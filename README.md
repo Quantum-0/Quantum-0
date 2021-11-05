@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quantum-0&show_icons=true&locale=en" alt="quantum-0" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quantum-0&show_icons=true&locale=en&layout=compact" alt="quantum-0" /></p>
