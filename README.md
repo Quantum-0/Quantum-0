@@ -16,6 +16,8 @@ Have experiense with:
 Python, Flask, REST API, SQLAlchemy, C# / .NET Framework, Linux, Git, IoT, Arduino SDK / NonOS SDK for Arduino and ESP8266, and etc.
 (all on my [HH](https://hh.ru/resume/026c4da3ff07ab5fdf0039ed1f39483049474b))
 
+Mentoring [Fufigg](https://github.com/Fufigg) in learning Python
+
 <!--
 **Quantum-0/Quantum-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
