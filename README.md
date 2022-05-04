@@ -18,6 +18,28 @@ Python, Flask, REST API, SQLAlchemy, C# / .NET Framework, Linux, Git, IoT, Ardui
 
 Mentoring [Fufigg](https://github.com/Fufigg) in learning Python.
 
+<h2 align="center"> 🏆 Trophy </h2>
+
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=quantum-0&theme=juicyfresh&column=-1" alt="trophy" />
+</p>
+
+<h2 align="center"> 📈 Stats </h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantum-0&theme=solarized_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quantum-0&theme=solarized_dark" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantum-0&theme=solarized_dark" />
+</p>
+
+<h2 align="center"> 📈 Wakatime Stats </h2>
+
+<p align="center">
+  <img align="center" src="https://wakatime.com/share/@7c9029ee-89d1-45a3-8197-cbf6c3bcaf78/b4122c89-e1ce-4153-bae0-62269111579b.png" alt="wakatime" />
+</p>
+
 <!--
 **Quantum-0/Quantum-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,8 +54,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quantum-0&show_icons=true&locale=en" alt="quantum-0" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quantum-0&show_icons=true&locale=en&layout=compact" alt="quantum-0" /></p>-->
-<p><img align="center" src="https://wakatime.com/share/@7c9029ee-89d1-45a3-8197-cbf6c3bcaf78/b4122c89-e1ce-4153-bae0-62269111579b.png" alt="wakatime" /></p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=quantum-0&show_icons=true&locale=en" alt="quantum-0" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quantum-0&show_icons=true&locale=en&layout=compact" alt="quantum-0" /></p>
+-->
