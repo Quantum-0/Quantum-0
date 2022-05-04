@@ -18,6 +18,22 @@ Python, Flask, REST API, SQLAlchemy, C# / .NET Framework, Linux, Git, IoT, Ardui
 
 Mentoring [Fufigg](https://github.com/Fufigg) in learning Python.
 
+<!--
+<h2 align="center"> 🔧 Skills </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-%23316192?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-%23316192.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-%23316192.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23316192.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-%23316192.svg?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/arduino-%23316192.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+-->
+
 <h2 align="center"> 🏆 Trophy </h2>
 
 <p align="center">
