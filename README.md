@@ -56,6 +56,11 @@ Mentoring [Fufigg](https://github.com/Fufigg) in learning Python.
   <img align="center" src="https://wakatime.com/share/@7c9029ee-89d1-45a3-8197-cbf6c3bcaf78/b4122c89-e1ce-4153-bae0-62269111579b.png" alt="wakatime" />
 </p>
 
+<h2 align="center"> Leet Code </h2>
+<p align="center">
+  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.leetcode.svg" alt="leetcode stats" />
+</p>
+
 <!--
 **Quantum-0/Quantum-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
