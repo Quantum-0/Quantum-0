@@ -37,8 +37,8 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_skyline: yes
-          plugin_skyline_frames: 120
-          plugin_skyline_quality: 0.7
+          plugin_skyline_frames: 10
+          plugin_skyline_quality: 1
           plugin_skyline_settings: |
             {
               "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
@@ -54,5 +54,5 @@ jobs:
           base: ""
           plugin_lines: yes
           plugin_lines_sections: repositories, history
-          plugin_lines_repositories_limit: 2
+          plugin_lines_repositories_limit: 5
           plugin_lines_history_limit: 1
