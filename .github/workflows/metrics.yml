@@ -27,5 +27,32 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_wakatime: yes
+          plugin_wakatime_days: 180
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+      - name: GitHub City
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.skyline.city.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_frames: 120
+          plugin_skyline_quality: 0.7
+          plugin_skyline_settings: |
+            {
+              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+              "wait": 4,
+              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+            }
+      - name: Repositories and diff history
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.lines.history.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 2
+          plugin_lines_history_limit: 1
