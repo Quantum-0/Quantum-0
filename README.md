@@ -56,9 +56,14 @@ Mentoring [Fufigg](https://github.com/Fufigg) in learning Python.
   <img align="center" src="https://wakatime.com/share/@7c9029ee-89d1-45a3-8197-cbf6c3bcaf78/b4122c89-e1ce-4153-bae0-62269111579b.png" alt="wakatime" />
 </p>
 
-<h2 align="center"> Leet Code </h2>
+<h2 align="center"> Metrics </h2>
 <p align="center">
   <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.leetcode.svg" alt="leetcode stats" />
+  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.wakatime.svg" alt="wakatime stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.lines.history.svg" alt="lines stats" />
+  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.skyline.city.svg" alt="city view" />
 </p>
 
 <!--
