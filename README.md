@@ -56,20 +56,14 @@ Mentoring [Fufigg](https://github.com/Fufigg) in learning Python.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantum-0&theme=solarized_dark" />
 </p>
 
-<h2 align="center"> 📈 Wakatime Stats </h2>
-
+<h2 align="center"> 📈 Metrics </h2>
 <p align="center">
-  <img align="center" src="https://wakatime.com/share/@7c9029ee-89d1-45a3-8197-cbf6c3bcaf78/b4122c89-e1ce-4153-bae0-62269111579b.png" alt="wakatime" />
-</p>
-
-<h2 align="center"> Metrics </h2>
-<p align="center">
-  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.leetcode.svg" width="40%" alt="leetcode stats" />
-  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.wakatime.svg" width="40%" alt="wakatime stats" />
+  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.leetcode.svg" width="48%" alt="leetcode stats" />
+  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.wakatime.svg" width="48%" alt="wakatime stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.lines.history.svg" width="40%" alt="lines stats" />
-  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.skyline.city.svg" width="40%" alt="city view" />
+  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.lines.history.svg" width="48%" alt="lines stats" />
+  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.skyline.city.svg" width="48%" alt="city view" />
 </p>
 
 <!--
@@ -85,6 +79,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<h2 align="center"> 📈 Wakatime Stats </h2>
+
+<p align="center">
+  <img align="center" src="https://wakatime.com/share/@7c9029ee-89d1-45a3-8197-cbf6c3bcaf78/b4122c89-e1ce-4153-bae0-62269111579b.png" alt="wakatime" />
+</p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=quantum-0&show_icons=true&locale=en" alt="quantum-0" />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quantum-0&show_icons=true&locale=en&layout=compact" alt="quantum-0" /></p>
