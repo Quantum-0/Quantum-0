@@ -4,17 +4,23 @@ My name is Anton.
 
 I'm 26 years old developer.
 
-Currently working in [Yandex](https://yandex.ru/) as backend-developer of service [DataLens](https://datalens.yandex.ru/).
+* Currently working at [Nota.Media](https://nota.media/) on project [Пушкинская Карта](https://www.culture.ru/pushkinskaya-karta) as backend-developer.
 
-Previously was engineer-developer in [Rubetek](https://rubetek.com/umnyj-dom-rubetek/) and worked on project Smart Home.
+* Previously was backend-developer of service [DataLens](https://datalens.yandex.ru/) at [Yandex](https://yandex.ru/).
 
-Have particulary work in [KR.Digital](https://kr.digital/) and working on a service for [MosOblGaz](https://mosoblgaz.ru/).
+* And before Yandex worked as engineer-developer in [Rubetek](https://rubetek.com/umnyj-dom-rubetek/) and worked on project Smart Home.
+
+* Also have particulary work in [KR.Digital](https://kr.digital/). Developing a service for [MosOblGaz](https://mosoblgaz.ru/).
 
 
 Have experiense with:
 
-Python, Flask, REST API, SQLAlchemy, C# / .NET Framework, Linux, Git, IoT, Arduino SDK / NonOS SDK for Arduino and ESP8266, and etc.
-(all on my [HH](https://hh.ru/resume/026c4da3ff07ab5fdf0039ed1f39483049474b))
+* Python, Flask, Fast API, REST API, SQLAlchemy, Marshmallow, Pydantic, C# / .NET Framework, Linux, Git, IoT, Arduino SDK / NonOS SDK for Arduino and ESP8266, and etc.
+
+* Interested in increasing my skills in CI/CD.
+
+(My resume on [HH](https://hh.ru/resume/026c4da3ff07ab5fdf0039ed1f39483049474b))
+
 
 Mentoring [Fufigg](https://github.com/Fufigg) in learning Python.
 
@@ -58,12 +64,12 @@ Mentoring [Fufigg](https://github.com/Fufigg) in learning Python.
 
 <h2 align="center"> Metrics </h2>
 <p align="center">
-  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.leetcode.svg" alt="leetcode stats" />
-  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.wakatime.svg" alt="wakatime stats" />
+  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.leetcode.svg" width="40%" alt="leetcode stats" />
+  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.wakatime.svg" width="40%" alt="wakatime stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.lines.history.svg" alt="lines stats" />
-  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.skyline.city.svg" alt="city view" />
+  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.lines.history.svg" width="40%" alt="lines stats" />
+  <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.skyline.city.svg" width="40%" alt="city view" />
 </p>
 
 <!--
