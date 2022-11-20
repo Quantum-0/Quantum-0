@@ -2,13 +2,13 @@
 
 My name is Anton.
 
-I'm 26 years old developer.
+I'm 26 y.o. developer.
 
 * Currently working at [Nota.Media](https://nota.media/) on project [Пушкинская Карта](https://www.culture.ru/pushkinskaya-karta) as backend-developer.
 
-* Previously was backend-developer of service [DataLens](https://datalens.yandex.ru/) at [Yandex](https://yandex.ru/).
+* Previously was a backend-developer of service [DataLens](https://datalens.yandex.ru/) at [Yandex](https://yandex.ru/).
 
-* And before Yandex worked as engineer-developer in [Rubetek](https://rubetek.com/umnyj-dom-rubetek/) and worked on project Smart Home.
+* And before Yandex worked as an engineer-developer in [Rubetek](https://rubetek.com/umnyj-dom-rubetek/) and worked on project Smart Home.
 
 * Also have particulary work in [KR.Digital](https://kr.digital/). Developing a service for [MosOblGaz](https://mosoblgaz.ru/).
 
@@ -19,7 +19,7 @@ Have experiense with:
 
 * Interested in increasing my skills in CI/CD.
 
-(My resume on [HH](https://hh.ru/resume/026c4da3ff07ab5fdf0039ed1f39483049474b))
+_My resume on [HH](https://hh.ru/resume/026c4da3ff07ab5fdf0039ed1f39483049474b)_
 
 
 Mentoring [Fufigg](https://github.com/Fufigg) in learning Python.
