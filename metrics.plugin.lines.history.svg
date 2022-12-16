@@ -19,13 +19,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">Quantum-0/AppHB_Server</span>
+                            <span class="diff-handle">Quantum-0/Kursach</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">Quantum-0/Tic_Tac_Toe_9x9</span>
+                            <span class="diff-handle">Quantum-0/the-path-of-thorns</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -43,7 +43,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">Quantum-0/FastExec</span>
+                            <span class="diff-handle">Quantum-0/QuantumRaspberryServer</span>
                         </div>
                     </section>
                     <section>
@@ -53,16 +53,16 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +47.4k</span> <span class="deleted"> -36.4k</span></div>
+                            <div class="diff-stats"><span class="added">  +262k</span> <span class="deleted">  -174k</span></div>
                             <span> </span>
                         </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +23.1k</span> <span class="deleted"> -16.3k</span></div>
+                            <div class="diff-stats"><span class="added">  +191k</span> <span class="deleted">   -521</span></div>
                             <span> </span>
                         </div>
                         <div class="field">
@@ -89,7 +89,7 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +2.18k</span> <span class="deleted">    -32</span></div>
+                            <div class="diff-stats"><span class="added"> +2.19k</span> <span class="deleted">   -369</span></div>
                             <span> </span>
                         </div>
                     </section>
@@ -195,8 +195,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−800</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L302.60655737704917,140.5L441,140.5L441,65.07605177993527L302.60655737704917,118.42826321467096L39,5Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L302.60655737704917,140.5L441,140.5L441,143.27723840345197L302.60655737704917,141.5231930960086L39,166.95685005393747Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L276.24590163934425,140.5L282.8360655737705,140.5L289.42622950819674,140.5L296.016393442623,140.5L302.60655737704917,140.5L335.5573770491804,140.5L342.1475409836066,140.5L441,140.5L441,52.94390507011865L342.1475409836066,139.6229773462783L335.5573770491804,137.86893203883494L302.60655737704917,105.71143473570658L296.016393442623,140.2076591154261L289.42622950819674,116.52804746494067L282.8360655737705,138.01510248112191L276.24590163934425,52.21305285868393L39,5Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L276.24590163934425,140.5L282.8360655737705,140.5L289.42622950819674,140.5L296.016393442623,140.5L302.60655737704917,140.5L335.5573770491804,140.5L342.1475409836066,140.5L441,140.5L441,149.27022653721684L342.1475409836066,140.7923408845739L335.5573770491804,141.23085221143472L302.60655737704917,142.54638619201722L296.016393442623,140.64617044228697L289.42622950819674,142.98489751887809L282.8360655737705,140.64617044228697L276.24590163934425,143.86192017259978L39,166.95685005393747Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
