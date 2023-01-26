@@ -66,6 +66,9 @@ Mentoring [Fufigg](https://github.com/Fufigg) in learning Python.
   <img align="center" src="https://github.com/Quantum-0/Quantum-0/blob/main/metrics.plugin.skyline.city.svg" width="48%" alt="city view" />
 </p>
 
+<br><br><br>
+<h3>Views counter: <img src="https://profile-counter.glitch.me/quantum-0/count.svg"/></h3>
+
 <!--
 **Quantum-0/Quantum-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
