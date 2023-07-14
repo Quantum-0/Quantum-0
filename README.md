@@ -2,7 +2,7 @@
 
 My name is Anton.
 
-I'm 26 y.o. developer.
+I'm 27 y.o. developer.
 
 * Currently working at [Nota.Media](https://nota.media/) on project [Пушкинская Карта](https://www.culture.ru/pushkinskaya-karta) as backend-developer.
 
