@@ -10,7 +10,7 @@ I'm 28 y.o. developer.
 
 * And before Yandex worked as an engineer-developer in [Rubetek](https://rubetek.com/umnyj-dom-rubetek/) and worked on project Smart Home.
 
-* Also have particulary work in [KR.Digital](https://kr.digital/). Developing a service for [MosOblGaz](https://mosoblgaz.ru/).
+* Also had particular work in [KR.Digital](https://kr.digital/). Developing a service for [MosOblGaz](https://mosoblgaz.ru/).
 
 
 Have experiense with:
