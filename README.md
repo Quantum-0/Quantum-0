@@ -21,6 +21,18 @@ Have experiense with:
 
 _My resume on [HH](https://hh.ru/resume/026c4da3ff07ab5fdf0039ed1f39483049474b)_
 
+My open-source contributions:
+
+* [Python Telegram bot client](https://github.com/eternnoir/pyTelegramBotAPI) - [Add is_anonymous flag to Poll type #743](https://github.com/eternnoir/pyTelegramBotAPI/pull/743)
+* [Minecraft Server Auth plugin](https://github.com/nickuc/OpeNLogin) - [Update translation in messages_ru.yml #54](https://github.com/nickuc/OpeNLogin/pull/54)
+* [Typescript Fake data generator](https://github.com/ngneat/falso) - [Fix randGitShortSha and randGitCommitSha #255](https://github.com/ngneat/falso/pull/255)
+* [Typescript Fake data generator](https://github.com/ngneat/falso) - [Fix Probability distribution #256](https://github.com/ngneat/falso/pull/256)
+* [Aiopg - python library for async connection to PostgreSQL](https://github.com/aio-libs/aiopg) - [Add typings #900](https://github.com/aio-libs/aiopg/pull/900)
+* [Ollama server <=> telegram bot bridge](https://github.com/ruecat/ollama-telegram) - [Add flag ALLOW_ALL_USERS_IN_GROUPS #59](https://github.com/ruecat/ollama-telegram/pull/59)
+* [Pycades - Cryptography library for Python](https://github.com/CryptoPro/pycades) - [Fix Certificate_getset in PyCadesCertificate.cpp #3](https://github.com/CryptoPro/pycades/pull/3)
+* [Dockerization for The Isle game server](https://github.com/Auhrus/theisle-evrima-docker-server) - [Fix typo in README.md #2](https://github.com/Auhrus/theisle-evrima-docker-server/pull/2)
+* [Matterbridge - chat bridge for different services](https://github.com/42wim/matterbridge) - [Fix typos in matterbridge.toml.sample #2077](https://github.com/42wim/matterbridge/pull/2077)
+* [Barrier](https://github.com/debauchee/barrier) - [Update russian translation #1676](https://github.com/debauchee/barrier/pull/1676)
 
 Mentoring [Fufigg](https://github.com/Fufigg) in learning Python.
 
