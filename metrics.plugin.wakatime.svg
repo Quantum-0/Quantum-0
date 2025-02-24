@@ -61,17 +61,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">pushka-v2</span>
-                                <div class="bar" style="width: 25.36%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 25.384%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">32%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">dis-b2b-back</span>
-                                <div class="bar" style="width: 17.464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 17.480000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">reworkd/AgentGPT</span>
-                                <div class="bar" style="width: 3.968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.9759999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
@@ -91,12 +91,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 56.279999999999994%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 56.264%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">70%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 19.568%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 19.576%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">24%</span>
                             </div>
                             <div class="entry">
