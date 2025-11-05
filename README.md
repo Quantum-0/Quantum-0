@@ -2,9 +2,11 @@
 
 My name is Anton.
 
-I'm 28 y.o. developer.
+I'm 29 y.o. developer.
 
-* From summer 2022 was working at [Nota.Media](https://nota.media/) on project [Пушкинская Карта](https://www.culture.ru/pushkinskaya-karta) as backend-developer. After summer 2023 our team was joined to [VK Team](vk.team) continuing developing the same project. Since October 2024 working on the neighboring project - [DIS VK](https://dis.vk.com/)
+* From January 2025 I'm working on the project [ВК Билеты (VK Tickets)](https://tickets.vk.com/).
+
+* From summer 2022 was working at [Nota.Media](https://nota.media/) on project [Пушкинская Карта](https://www.culture.ru/pushkinskaya-karta) as backend-developer. After summer 2023 our team was joined to [VK Team](vk.team) continuing developing the same project. Since October 2024 working on the neighboring project - [DIS VK](https://dis.vk.com/).
 
 * Previously was a backend-developer of service [DataLens](https://datalens.yandex.ru/) at [Yandex](https://yandex.ru/).
 
