@@ -61,8 +61,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">twitch-bot</span>
-                                <div class="bar" style="width: 10.776000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
+                                <div class="bar" style="width: 11.232%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">actions</span>
@@ -71,7 +71,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">order-service</span>
-                                <div class="bar" style="width: 5.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.6000000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
@@ -80,8 +80,8 @@
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">music-service</span>
-                                <div class="bar" style="width: 3.7680000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">widget</span>
+                                <div class="bar" style="width: 3.688%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                         </div>
@@ -91,17 +91,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 40.519999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 40.488%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">51%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 31.688000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 31.672000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">40%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 1.864%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.8960000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
