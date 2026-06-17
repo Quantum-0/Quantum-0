@@ -2,7 +2,7 @@
 
 My name is Anton.
 
-I'm 29 y.o. developer.
+I'm 30 y.o. developer.
 
 * From January 2025 I'm working on the project [ВК Билеты (VK Tickets)](https://tickets.vk.com/).
 
